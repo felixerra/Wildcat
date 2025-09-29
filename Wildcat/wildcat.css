@@ -1,0 +1,33 @@
+body {
+      font-size: 1em;
+      font-family: 'Sabon Next LT', Georgia, 'Times New Roman', Times, serif;
+    }
+
+    p {
+      font-family: 'Sabon Next LT', Georgia, 'Times New Roman', Times, serif;
+    }
+
+    h1 {
+      font-size: 2em;
+      font-family: 'Castellar', serif;
+    }
+
+    h2 {
+      font-size: 1.5em;
+      font-family: "Imprint MT Shadow", serif;
+    }
+
+    h3 {
+      font-size: 1.25em;
+      font-family: "Imprint MT Shadow", serif;
+    }
+
+    ol,
+    ul {
+      font-family: 'Sabon Next LT', Georgia, 'Times New Roman', Times, serif;
+    }
+
+    .page-header {
+        padding-top: 20px;
+        text-align: center;
+    }
