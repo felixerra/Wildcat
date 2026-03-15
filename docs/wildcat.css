@@ -61,31 +61,30 @@
 
 body {
       font-size: 1em;
-      font-family: 'Sabon Next LT', Georgia, 'Times New Roman', Times, serif;
+      font-family: "Proza Libre", Arial, Helvetica, sans-serif;
     }
 
     p {
-      font-family: 'Sabon Next LT', Georgia, 'Times New Roman', Times, serif;
-    }
+      font-family: "Proza Libre", Arial, Helvetica, sans-serif;
 
     h1 {
       font-size: 2em;
-      font-family: "Proza Libre", sans-serif;
+      font-family: "Proza Libre", Arial, Helvetica, sans-serif;
     }
 
     h2 {
       font-size: 1.5em;
-      font-family: "Proza Libre", sans-serif;
+      font-family: "Proza Libre", Arial, Helvetica, sans-serif;
     }
 
     h3 {
       font-size: 1.25em;
-      font-family: "Proza Libre", sans-serif;
+      font-family: "Proza Libre", Arial, Helvetica, sans-serif;
     }
 
     ol,
     ul {
-      font-family: 'Sabon Next LT', Georgia, 'Times New Roman', Times, serif;
+      font-family: "Proza Libre", Arial, Helvetica, sans-serif;
     }
 
     .page-header {
